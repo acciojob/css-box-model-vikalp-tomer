@@ -1,23 +1,8 @@
-
-/* Your CSS Code here. */body{
-	padding:20px;
-	border: 1px solid;
-}
-main{
-	border: 1px solid;
-	background-color: rgb(74, 74, 220);
-}
-#dark{
-	margin:20px;
-	border: 1px solid;
-}
-#green{
-	border: 1px solid;
-	padding: 10px;
-	background-color: aquamarine;
-}
-#border{
-	border-style: dashed;
-	background-color: aquamarine;
-	width: 300px;
+.box{
+    margin: 20px;
+    border: 15px solid blue;
+    padding: 50px;
+    background-color: lightblue;
+    width: 300px;
+     
 }
